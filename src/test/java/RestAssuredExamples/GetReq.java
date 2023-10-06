@@ -5,6 +5,16 @@ import io.restassured.response.Response;
 import junit.framework.Assert;
 import org.testng.annotations.Test;
 
+/*
+
+Given - Pre Conditions
+When - Action to be performed
+Then - Outcome of that particular action
+
+
+ */
+
+
 public class GetReq {
 
     //public static void main(String[] args) {
